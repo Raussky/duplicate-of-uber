@@ -1,0 +1,81 @@
+.middle-section6 {
+}
+.more {
+  font-size: 36px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: rgb(51, 51, 51);
+  font-weight: 500;
+}
+.middle-box7 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 100px;
+}
+.flexbox1 {
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    border: solid;
+    border-width: 1px;
+    border-color: #fff;
+}
+.logo-uber1 {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-top: 70px;
+    cursor: pointer;
+}
+.arrow-box {
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+}
+.download1 {
+    font-size: 24px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    color: black;
+    font-weight: 700;
+    width: 250px;
+    margin-top: 100px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.arrow-right {
+    width: 26px;
+    height: 25px;
+    margin-left: 30px;
+    margin-top: 130px;
+    cursor: pointer;
+    transition: 1s;
+}
+.arrow-right:hover {
+    margin-left: 50px;
+    cursor: pointer;
+    white-space: nowrap;
+}
+.download2{
+    font-size: 24px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    color: black;
+    font-weight: 700;
+    width: 300px;
+    margin-top: 120px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.arrow-right2 {
+    width: 26px;
+    height: 25px;
+    margin-left: 30px;
+    margin-top: 130px;
+    cursor: pointer;
+    transition: 1s;
+}
+.arrow-right2:hover {
+    margin-left: 50px;
+    cursor: pointer;
+    white-space: nowrap;
+}
